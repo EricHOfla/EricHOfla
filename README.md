@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ericofla1@gmail.com**
 
-- 📄 Know about my experiences [potfolio-php.herokuapp.com/](potfolio-php.herokuapp.com/)
+- 📄 Know about my experiences [instabio.cc/ericHofla](instabio.cc/ericHofla)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
