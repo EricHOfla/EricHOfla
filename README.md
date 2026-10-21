@@ -1,187 +1,97 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E3A8A,100:0F766E&text=Eric%20Habumugisha&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Software%20Developer&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:0F766E&text=Eric%20Habumugisha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Python%20%7C%20FastAPI&descAlignY=59&descSize=18" alt="Eric Habumugisha — Backend Software Engineer" />
 
-<br/>
+<p>
+  <a href="https://www.linkedin.com/in/habumugisha-eric-883579363/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/EricHOfla"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:ericofla1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://oflacoder.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=750&lines=Building+Modern+and+Scalable+Web+Applications;Laravel+•+FastAPI+•+React.js;Backend+Engineering+•+REST+APIs+•+UI%2FUX;Open+to+Collaboration+and+Freelance+Projects" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/habumugisha-eric-883579363/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/oflah_">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/oflah___/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://oflacoder.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:ericofla1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=erichofla&label=Profile%20Views&color=0F766E&style=flat-square"/>
-
-<img src="https://img.shields.io/github/followers/erichofla?label=Followers&style=flat-square&color=2563EB"/>
+<p><em>Building reliable APIs and practical backend systems from Kigali, Rwanda 🇷🇼</em></p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About me
 
-```python
-class EricHabumugisha:
+I'm a software developer focused on **backend engineering with Python**. I enjoy designing REST APIs, working with relational databases, and building maintainable services that solve real problems.
 
-    def __init__(self):
-        self.role = "Full-Stack Software Developer"
-        self.location = "Kigali, Rwanda 🇷🇼"
-
-        self.specialization = [
-            "Backend Development",
-            "REST API Development",
-            "Frontend Development",
-            "UI/UX Design"
-        ]
-
-        self.tech_stack = {
-            "backend": ["Laravel", "FastAPI", "Django"],
-            "frontend": ["React.js", "Bootstrap", "Tailwind CSS"],
-            "database": ["PostgreSQL", "MySQL"]
-        }
-
-        self.current_focus = "Building secure and scalable applications"
-
-        self.open_to = [
-            "Freelance Projects",
-            "Open Source Collaboration",
-            "Full-time Opportunities"
-        ]
-```
+- 🔭 **Focus:** Backend development, API design, and database-driven applications
+- 🧰 **Main stack:** Python, FastAPI, Django, PostgreSQL, and SQLAlchemy
+- 🏗️ **Experience:** Developing and maintaining backend services and API integrations
+- 🌱 **Currently improving:** System design, automated testing, Docker, and production reliability
+- 🤝 **Open to:** Backend opportunities, meaningful open-source work, and collaboration
+- 📍 **Based in:** Kigali, Rwanda
 
 ---
 
-# 🚀 Tech Stack
+## Technical skills
+
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Python, FastAPI, Django, Node.js, Express.js, PHP, Laravel</td>
+  </tr>
+  <tr>
+    <td><strong>APIs & Auth</strong></td>
+    <td>REST APIs, OpenAPI/Swagger, JWT, OAuth 2.0</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>PostgreSQL, MySQL, SQLite, MongoDB, SQLAlchemy</td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Workflow</strong></td>
+    <td>Git, GitHub, Postman, Linux, VS Code, environment configuration</td>
+  </tr>
+  <tr>
+    <td><strong>Additional</strong></td>
+    <td>JavaScript, React, HTML, CSS, Bootstrap, Tailwind CSS</td>
+  </tr>
+</table>
 
 <div align="center">
 
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
-
-<br/><br/>
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,django,nodejs"/>
-
-<br/><br/>
-
-## Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,vercel,heroku"/>
-
-<br/><br/>
-
-## Tools & Design
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,illustrator,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,mongodb,nodejs,php,git,github,docker,linux&perline=6" alt="Technologies: Python, FastAPI, Django, PostgreSQL, MySQL, MongoDB, Node.js, PHP, Git, GitHub, Docker, Linux" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## What I enjoy building
+
+- **Backend services:** Clean, maintainable application logic and service architecture
+- **REST APIs:** Clear endpoints, validation, authentication, and useful documentation
+- **Data-driven applications:** Reliable database schemas, queries, and integrations
+- **Financial and business systems:** Practical software that supports everyday operations
+
+---
+
+## GitHub overview
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erichofla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EricHOfla&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricHOfla&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=erichofla&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erichofla&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=EricHOfla&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+## Let's connect
+
+I'm happy to connect with developers, teams, and organizations working on useful software.
+
+- **LinkedIn:** [linkedin.com/in/habumugisha-eric-883579363](https://www.linkedin.com/in/habumugisha-eric-883579363/)
+- **Portfolio:** [oflacoder.vercel.app](https://oflacoder.vercel.app)
+- **Email:** [ericofla1@gmail.com](mailto:ericofla1@gmail.com)
+- **X:** [@oflah_](https://x.com/oflah_)
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=erichofla&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=erichofla&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 💼 Services
-
-✔️ Full-Stack Web Development  
-✔️ REST API Development  
-✔️ Backend Architecture  
-✔️ Frontend UI Development  
-✔️ Database Design & Optimization  
-✔️ UI/UX Design  
-
----
-
-# 🌍 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/habumugisha-eric-883579363/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/oflah_">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/oflah___/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:ericofla1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# ☕ Support My Work
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/Ofla">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" width="220" alt="Buy Me A Coffee"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:0F766E"/>
-
+  <sub>Focused on learning, writing better software, and building things that make a difference.</sub>
 </div>
