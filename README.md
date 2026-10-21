@@ -38,6 +38,45 @@ I'm a software developer focused on **backend engineering**, especially with Pyt
 | **Tools** | Git, GitHub, Postman, Linux, VS Code |
 | **Additional** | JavaScript, React, HTML, CSS |
 
+## 🛠️ What I focus on
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend APIs
+
+Designing and developing REST APIs with clear structure, validation, and maintainable service logic.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Data & databases
+
+Working with relational databases, ORM models, schema migrations, and reliable data access.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 Service integration
+
+Connecting services and building backend workflows that allow applications to work together.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Reliability & maintainability
+
+Improving error handling, logging, testing, and code quality to make services easier to support.
+
+</td>
+</tr>
+</table>
+</div>
+
 ## 🚀 Selected projects
 
 <table>
@@ -83,13 +122,11 @@ Browse my public repositories for additional projects and experiments.
 </tr>
 </table>
 
-## 📊 GitHub activity
+## 🎯 What I'm working toward
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EricHOfla&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricHOfla&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most-used programming languages" />
-<img width="95%" src="https://streak-stats.demolab.com?user=EricHOfla&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
+- Building clean, dependable backend services with Python and FastAPI.
+- Strengthening my skills in software architecture, automated testing, and deployment.
+- Creating practical software that supports business operations and solves real problems.
 
 ## 🤝 Connect
 
