@@ -17,10 +17,11 @@
 
 ## About me
 
-I'm a software developer focused on **backend engineering with Python**. I enjoy designing REST APIs, working with relational databases, and building maintainable services that solve real problems.
+I'm a software developer focused on **backend engineering with Python**, with experience across modern backend frameworks including Laravel. I enjoy designing REST APIs, working with relational databases, and building maintainable services that solve real problems.
 
 - 🔭 **Focus:** Backend development, API design, and database-driven applications
 - 🧰 **Main stack:** Python, FastAPI, Django, PostgreSQL, and SQLAlchemy
+- 🧩 **Also work with:** PHP and Laravel for backend application development
 - 🏗️ **Experience:** Developing and maintaining backend services and API integrations
 - 🌱 **Currently improving:** System design, automated testing, Docker, and production reliability
 - 🤝 **Open to:** Backend opportunities, meaningful open-source work, and collaboration
@@ -33,7 +34,7 @@ I'm a software developer focused on **backend engineering with Python**. I enjoy
 <table>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>Python, FastAPI, Django, Node.js, Express.js, PHP, Laravel</td>
+    <td>Python, FastAPI, Django, PHP, Laravel, Node.js, Express.js</td>
   </tr>
   <tr>
     <td><strong>APIs & Auth</strong></td>
@@ -55,7 +56,7 @@ I'm a software developer focused on **backend engineering with Python**. I enjoy
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,mongodb,nodejs,php,git,github,docker,linux&perline=6" alt="Technologies: Python, FastAPI, Django, PostgreSQL, MySQL, MongoDB, Node.js, PHP, Git, GitHub, Docker, Linux" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,php,laravel,postgres,mysql,mongodb,nodejs,git,github,docker,linux&perline=7" alt="Technologies: Python, FastAPI, Django, PHP, Laravel, PostgreSQL, MySQL, MongoDB, Node.js, Git, GitHub, Docker, Linux" />
 
 </div>
 
