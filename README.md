@@ -21,7 +21,14 @@
 
 I'm a backend-focused software engineer who enjoys turning business needs into practical, maintainable software. My main stack is **Python, FastAPI, and SQL databases**. I also work with Django, PHP/Laravel, and Node.js/Express.
 
-I care about clear API design, well-structured data, readable code, and services that are easier to test, maintain, and extend.
+My experience includes contributing to backend services for business systems, developing APIs, working with relational databases, and integrating services. I care about clear API design, well-structured data, readable code, and services that are easier to test, maintain, and extend.
+
+## Career snapshot
+
+- **Backend development:** Building and maintaining API-driven application services.
+- **Data management:** Working with relational databases, ORM models, and schema migrations.
+- **Service integration:** Connecting backend components and supporting reliable application workflows.
+- **Engineering practices:** Using version control, API documentation, structured logging, and maintainable code patterns.
 
 ## Technical skills
 
@@ -38,28 +45,54 @@ I care about clear API design, well-structured data, readable code, and services
 | **Development tools** | Git, GitHub, Postman, Docker, Linux, VS Code |
 | **Web fundamentals** | HTML, CSS, React |
 
-## Backend engineering
+## How I approach backend development
 
-<details>
-<summary><strong>API development</strong></summary>
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Designing and implementing REST endpoints, request validation, authentication flows, API documentation, and consistent response patterns.
+### API design
 
-</details>
+Build endpoints with clear responsibilities, input validation, consistent responses, and useful documentation.
 
-<details>
-<summary><strong>Database development</strong></summary>
+</td>
+<td width="50%" valign="top">
 
-Building data models, writing queries, working with ORM layers, and managing schema changes and migrations.
+### Data integrity
 
-</details>
+Structure database models and queries carefully, and manage schema changes through migrations.
 
-<details>
-<summary><strong>Service integration and maintenance</strong></summary>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Connecting application services and improving maintainability through structured error handling, logging, testing, and clear code organization.
+### Service reliability
 
-</details>
+Use structured error handling and logging to make issues easier to investigate and resolve.
+
+</td>
+<td width="50%" valign="top">
+
+### Maintainable code
+
+Keep business logic organized, favor readable implementations, and support changes with testing and version control.
+
+</td>
+</tr>
+</table>
+</div>
+
+## Typical backend request flow
+
+<div align="center">
+
+`Client / Frontend` → `REST API` → `Business Logic` → `Database Layer` → `Database`
+
+</div>
+
+I think about the full request lifecycle—from validating a request and applying business rules to storing data and returning a predictable response. The exact architecture depends on the requirements of each system.
 
 ## Current professional focus
 
