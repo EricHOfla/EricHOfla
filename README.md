@@ -30,15 +30,15 @@ Building useful solutions through code, creativity, and continuous learning.
 
 </div>
 
-<font color="#E2E8F0">I'm a software developer who enjoys turning ideas and business needs into practical, maintainable software. My primary stack is **Python, FastAPI, and SQL databases**, with additional experience across Django, PHP/Laravel, and Node.js/Express.</font>
+<font color="#E2E8F0">I'm a software developer who enjoys turning ideas and business needs into practical, working software. I focus mainly on backend development with **Python, FastAPI, and SQL databases**, and I also work with Django, PHP/Laravel, and Node.js/Express when a project calls for them.</font>
 
-<font color="#CBD5E1">I'm passionate about technology, continuous learning, clean code, and building digital solutions that are useful, reliable, and easy to maintain.</font>
+<font color="#CBD5E1">I enjoy building projects from the ground up, connecting the different parts of an application, learning new technologies, and finding practical ways to solve problems. Backend development is my strongest area; I can also work with frontend tools as needed to bring a project together.</font>
 
 </td>
 </tr>
 </table>
 
-## <font color="#0891B2">02 / Professional strengths</font>
+## <font color="#0891B2">02 / What I bring to a project</font>
 
 <table>
 <tr>
@@ -46,18 +46,18 @@ Building useful solutions through code, creativity, and continuous learning.
 
 <sub><font color="#22D3EE">01 — BUILD</font></sub>
 
-### <font color="#F8FAFC">Backend engineering</font>
+### <font color="#F8FAFC">Build application logic</font>
 
-<font color="#CBD5E1">API-driven services, request validation, organized business logic, and maintainable application structure.</font>
+<font color="#CBD5E1">Develop APIs, implement business rules, validate requests, and structure code so it is easier to work with.</font>
 
 </td>
 <td width="50%" valign="top" bgcolor="#172554">
 
 <sub><font color="#93C5FD">02 — MODEL</font></sub>
 
-### <font color="#F8FAFC">Database development</font>
+### <font color="#F8FAFC">Work with data</font>
 
-<font color="#CBD5E1">Relational data, ORM models, queries, schema migrations, and data consistency.</font>
+<font color="#CBD5E1">Design data models, write queries, use ORM tools, and manage database changes.</font>
 
 </td>
 </tr>
@@ -66,18 +66,18 @@ Building useful solutions through code, creativity, and continuous learning.
 
 <sub><font color="#67E8F9">03 — CONNECT</font></sub>
 
-### <font color="#F8FAFC">Service integration</font>
+### <font color="#F8FAFC">Connect application components</font>
 
-<font color="#CBD5E1">Connecting application components and supporting workflows across backend services.</font>
+<font color="#CBD5E1">Connect APIs, services, databases, and user-facing parts so they work together.</font>
 
 </td>
 <td width="50%" valign="top" bgcolor="#2E1065">
 
 <sub><font color="#C4B5FD">04 — IMPROVE</font></sub>
 
-### <font color="#F8FAFC">Reliability and quality</font>
+### <font color="#F8FAFC">Improve and maintain</font>
 
-<font color="#E9D5FF">Structured error handling, logging, API documentation, version control, and testing practices.</font>
+<font color="#E9D5FF">Troubleshoot issues, document APIs, use version control, and improve code as requirements evolve.</font>
 
 </td>
 </tr>
@@ -115,9 +115,9 @@ Building useful solutions through code, creativity, and continuous learning.
 | **APIs & authentication** | REST APIs, OpenAPI/Swagger, JWT, OAuth 2.0 |
 | **Databases & ORM** | PostgreSQL, MySQL, MongoDB, SQLite, SQLAlchemy |
 | **Tools & workflow** | Git, GitHub, Postman, Docker, Linux, VS Code |
-| **Web fundamentals** | HTML, CSS, React |
+| **Frontend basics** | HTML, CSS, React — used as needed when building a project |
 
-## <font color="#0891B2">04 / How I build software</font>
+## <font color="#0891B2">04 / My approach</font>
 
 <table>
 <tr>
@@ -155,18 +155,18 @@ Building useful solutions through code, creativity, and continuous learning.
 </tr>
 </table>
 
-I focus on understanding the problem first, choosing suitable tools, building clear application logic, handling data carefully, and improving the result through testing and feedback.
+I start by understanding the problem and the people who will use the software. Then I break the work into manageable parts, choose appropriate tools, build and connect the components, test the main flows, and refine the result based on feedback. I don't claim to specialize in every layer of development; I focus on delivering a useful, working solution.
 
-## <font color="#0891B2">05 / Current focus</font>
+## <font color="#0891B2">05 / What I'm growing in</font>
 
 <table>
 <tr>
 <td bgcolor="#111827">
 
-- <font color="#E2E8F0">Building and maintaining backend services with Python and FastAPI.</font>
-- <font color="#E2E8F0">Strengthening software design, automated testing, and database design.</font>
-- <font color="#E2E8F0">Improving service integration, deployment workflows, and maintainability.</font>
-- <font color="#E2E8F0">Creating useful software that supports real business processes.</font>
+- <font color="#E2E8F0">Deepening my skills in Python, FastAPI, and backend system design.</font>
+- <font color="#E2E8F0">Improving database design, testing, and troubleshooting.</font>
+- <font color="#E2E8F0">Getting better at deployment and connecting application components.</font>
+- <font color="#E2E8F0">Exploring technologies that help me build better, more useful projects.</font>
 
 </td>
 </tr>
