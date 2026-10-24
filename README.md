@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&section=header&text=ERIC%20HABUMUGISHA&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20ENGINEER%20%7C%20PYTHON%20%7C%20FASTAPI&descSize=16&descAlignY=60&color=0:090E1A,40:1E1B4B,75:155E75,100:0891B2&animation=fadeIn" alt="Eric Habumugisha — Backend Engineer, Python and FastAPI" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&section=header&text=ERIC%20HABUMUGISHA&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%7C%20TECH%20ENTHUSIAST&descSize=16&descAlignY=60&color=0:090E1A,40:1E1B4B,75:155E75,100:0891B2&animation=fadeIn" alt="Eric Habumugisha — Software Developer || Tech Enthusiast" />
 
 <p>
   <a href="https://www.linkedin.com/in/habumugisha-eric-883579363/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -8,9 +8,11 @@
   <a href="mailto:ericofla1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-**Designing reliable APIs and backend systems that solve real problems.**
+**Software Developer || Tech Enthusiast**  
 
-<sub>KIGALI, RWANDA 🇷🇼 &nbsp; | &nbsp; PYTHON-FIRST BACKEND DEVELOPMENT</sub>
+Building useful solutions through code, creativity, and continuous learning.
+
+<sub>KIGALI, RWANDA 🇷🇼 &nbsp; | &nbsp; SOFTWARE DEVELOPMENT & TECHNOLOGY</sub>
 
 </div>
 
@@ -24,13 +26,13 @@
 
 <sub><strong><font color="#22D3EE">01 / PROFILE</font></strong></sub>
 
-# <font color="#F8FAFC">Backend engineering with purpose</font>
+# <font color="#F8FAFC">Software development with purpose</font>
 
 </div>
 
-<font color="#E2E8F0">I'm a backend-focused software engineer who enjoys turning business needs into practical, maintainable software. My primary stack is **Python, FastAPI, and SQL databases**, with additional experience across Django, PHP/Laravel, and Node.js/Express.</font>
+<font color="#E2E8F0">I'm a software developer who enjoys turning ideas and business needs into practical, maintainable software. My primary stack is **Python, FastAPI, and SQL databases**, with additional experience across Django, PHP/Laravel, and Node.js/Express.</font>
 
-<font color="#CBD5E1">I value clear API design, reliable data handling, service integration, and code that is easier to understand, test, and maintain.</font>
+<font color="#CBD5E1">I'm passionate about technology, continuous learning, clean code, and building digital solutions that are useful, reliable, and easy to maintain.</font>
 
 </td>
 </tr>
@@ -115,7 +117,7 @@
 | **Tools & workflow** | Git, GitHub, Postman, Docker, Linux, VS Code |
 | **Web fundamentals** | HTML, CSS, React |
 
-## <font color="#0891B2">04 / Backend architecture</font>
+## <font color="#0891B2">04 / How I build software</font>
 
 <table>
 <tr>
@@ -153,7 +155,7 @@
 </tr>
 </table>
 
-I consider the full request lifecycle: validate input, apply business rules, access data carefully, handle failures clearly, and return predictable responses. The right architecture depends on the requirements of each system.
+I focus on understanding the problem first, choosing suitable tools, building clear application logic, handling data carefully, and improving the result through testing and feedback.
 
 ## <font color="#0891B2">05 / Current focus</font>
 
